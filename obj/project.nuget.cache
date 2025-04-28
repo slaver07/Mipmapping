@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SieomRyH87VeJN7iqZOaOnV2cur0vJ5kSryUTiTIkDh8MU0VvwIkfyuRFCmItVb8lvsi6IruW+ROfRXtLcDNwQ==",
+  "dgSpecHash": "GZulSX8RbdBlS2OBcTONCEXgtaXRclWAS/olu049QVDjuSiSR0uvtLEXDwe/ERz/53MjNiNvb7TGCyAgtfGqpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\black\\source\\repos\\Mipmap\\Mipmap.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "C:\\Users\\black\\.nuget\\packages\\opentk.windowing.common\\4.8.2\\opentk.windowing.common.4.8.2.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\opentk.windowing.desktop\\4.8.2\\opentk.windowing.desktop.4.8.2.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.2\\opentk.windowing.graphicslibraryframework.4.8.2.nupkg.sha512",
-    "C:\\Users\\black\\.nuget\\packages\\system.drawing.common\\9.0.4\\system.drawing.common.9.0.4.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\stbimagesharp\\2.30.15\\stbimagesharp.2.30.15.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []

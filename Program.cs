@@ -6,7 +6,7 @@ namespace Mipmap
     {
         static void Main(string[] args)
         {
-            using (Mip game = new Mip(800, 400))
+            using (Mip game = new Mip(600, 400))
             {
                 game.Run();
             }

@@ -9,7 +9,8 @@
       "Mipmap/1.0.0": {
         "dependencies": {
           "OpenTK": "4.8.2",
-          "StbImageSharp": "2.30.15"
+          "SixLabors.ImageSharp": "3.1.7",
+          "System.Drawing.Common": "9.0.4"
         },
         "runtime": {
           "Mipmap.dll": {}
@@ -159,11 +160,12 @@
           }
         }
       },
-      "StbImageSharp/2.30.15": {
+      "SixLabors.ImageSharp/3.1.7": {},
+      "System.Drawing.Common/9.0.4": {
         "runtime": {
-          "lib/netstandard2.0/StbImageSharp.dll": {
-            "assemblyVersion": "2.30.15.0",
-            "fileVersion": "2.30.15.0"
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.425.16312"
           }
         }
       },
@@ -253,12 +255,19 @@
       "path": "opentk.windowing.graphicslibraryframework/4.8.2",
       "hashPath": "opentk.windowing.graphicslibraryframework.4.8.2.nupkg.sha512"
     },
-    "StbImageSharp/2.30.15": {
+    "SixLabors.ImageSharp/3.1.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7QqbupVhz2kcFUPTgMw4iHR9rYDHGundzzee19Mwmd1typ2Lnv8EVJcLJxlkeBM2+4ex0NwsMtdbGSJctp1XCQ==",
-      "path": "stbimagesharp/2.30.15",
-      "hashPath": "stbimagesharp.2.30.15.nupkg.sha512"
+      "sha512": "sha512-9fIOOAsyLFid6qKypM2Iy0Z3Q9yoanV8VoYAHtI2sYGMNKzhvRTjgFDHonIiVe+ANtxIxM6SuqUzj0r91nItpA==",
+      "path": "sixlabors.imagesharp/3.1.7",
+      "hashPath": "sixlabors.imagesharp.3.1.7.nupkg.sha512"
+    },
+    "System.Drawing.Common/9.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SbtusMUT1bCxZ14904ZPo2GZyelze0rwUni9wXrp8KX9Zlsda8idqpxra1RBvOA85WM0wW+fCI4GLrlCTYiE6A==",
+      "path": "system.drawing.common/9.0.4",
+      "hashPath": "system.drawing.common.9.0.4.nupkg.sha512"
     },
     "System.Runtime.CompilerServices.Unsafe/5.0.0": {
       "type": "package",

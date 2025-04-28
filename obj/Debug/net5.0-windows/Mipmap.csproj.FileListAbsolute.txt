@@ -1,0 +1,15 @@
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\Shaders\shader.vert
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\Shaders\shader.frag
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\test.jpg
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\Mipmap.deps.json
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\Mipmap.dll
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\ref\Mipmap.dll
+C:\Users\black\source\repos\Mipmap\bin\Debug\net5.0-windows\Mipmap.pdb
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.AssemblyInfo.cs
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.dll
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\ref\Mipmap.dll
+C:\Users\black\source\repos\Mipmap\obj\Debug\net5.0-windows\Mipmap.pdb
